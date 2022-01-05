@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Mfjcol
-- 👀 I’m interested in C, C#, 
-- 🌱 I’m currently learning  C 
-- 💞️ I’m looking to collaborate on I'm starting
+- 👋 Hi, I'm Alexis Lopez.
+- 👀 I’m interested in C, Java, NodeJS.
+- 🌱 I’m Back-End learning.
+- 💞️ I have a course of 160h in C. By Coteming.
 
 <!---
 Mfjcol/Mfjcol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
